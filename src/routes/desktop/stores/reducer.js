@@ -5,7 +5,7 @@ import paintIcon from '$lib/assets/windowsIcons/Paint.png';
 import myCompIcon from '$lib/assets/windowsIcons/My Computer.png';
 import wmPlayerIcon from '$lib/assets/windowsIcons/Windows Media Player 9.png';
 import bovIcon from '$lib/assets/windowsIcons/bladeofvalor.png';
-import folder from '$lib/assets/windowsIcons/Folder.png';
+import folder from '$lib/assets/windowsIcons/Folder Closed.png';
 
 import window from '../Window/Window.svelte';
 import Maxthon from '../Apps/Maxthon/Maxthon.svelte';
