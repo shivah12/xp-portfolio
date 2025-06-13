@@ -214,7 +214,7 @@
 						<div class="right__card__item" on:click={openResume}>
 							<img src={disk} alt="Local Disk" class="right__card__img" />
 							<div class="right__card__img-container">
-								<div class="right__card__text">Local Disk (C:)</div>
+								<div class="right__card__text">Resume (C:)</div>
 							</div>
 						</div>
 					</div>
